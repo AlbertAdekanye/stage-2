@@ -1,5 +1,7 @@
+/* index.css or globals.css */
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
   --color-primary: #7C5DFA;
@@ -12,4 +14,16 @@
   --color-card-light: #FFFFFF;
   --color-card-dark: #1E2139;
   --color-edit-btn: #DFE3FA;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-bg-light);
+    color: #1e293b;
+  }
+  
+  .dark body {
+    background-color: var(--color-bg-dark);
+    color: #e2e8f0;
+  }
 }
