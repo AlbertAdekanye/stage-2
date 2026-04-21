@@ -77,7 +77,7 @@ text
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/invoice-app.git
+git clone https://github.com/AlbertAdekanye/stage-2.git
 cd invoice-app
 Install dependencies
 
@@ -324,7 +324,7 @@ Vite for blazing fast builds
 📧 Contact
 John Ughiovhe - @johnughiovhe
 
-Project Link: https://github.com/yourusername/invoice-app
+Project Link: https://github.com/AlbertAdekanye/stage-2
 
 🚀 Quick Start Commands
 bash
@@ -378,7 +378,7 @@ text
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/invoice-app.git
+git clone https://github.com/AlbertAdekanye/stage-2.git
 cd invoice-app
 
 npm install
@@ -599,7 +599,7 @@ Vite for blazing fast builds
 📧 Contact
 Albert Adekanye - @AlbertAdekanye
 
-Project Link: https://github.com/AlbertAdekanye/invoice-app
+Live Link: https://stage-2-seven.vercel.app/
 
 
 
