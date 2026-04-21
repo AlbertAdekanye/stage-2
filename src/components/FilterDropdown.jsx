@@ -55,7 +55,7 @@ const FilterDropdown = ({ selectedStatuses, onChange }) => {
       {/* Dropdown toggle button */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="flex items-center gap-2 px-4 py-2 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 transition-all duration-200 text-sm font-medium"
+        className="flex items-center gap-2 px-4 py-2 rounded-lg duration-200 text-sm font-medium"
         aria-expanded={isOpen}
         aria-haspopup="listbox"
       >
