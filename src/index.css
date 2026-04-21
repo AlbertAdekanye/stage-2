@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+@theme {
+  --color-primary: #7C5DFA;
+  --color-success: #33D69F;
+  --color-danger: #EC5757;
+
+  --color-bg-light: #F8F8FB;
+  --color-bg-dark: #141625;
+
+  --color-card-light: #FFFFFF;
+  --color-card-dark: #1E2139;
+  --color-edit-btn: #DFE3FA;
+}
