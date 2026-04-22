@@ -22,7 +22,7 @@ const Sidebar = () => {
     >
       {/* LOGO */}
       <div className="flex items-center justify-center lg:w-full">
-        <img src="/logo.png" alt="logo" className="w-10 h-10" />
+        <img src="/logo.png" alt="logo" className="w-20 h-20" />
       </div>
 
       {/* RIGHT / BOTTOM */}
